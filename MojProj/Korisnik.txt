@@ -1,0 +1,1 @@
+[{"Ime":"David","Prezime":"Vogronic","Username":"david","Pass":"david123","TipKorisnika":0},{"Ime":"Steva","Prezime":"Orlovic","Username":"lekar","Pass":"lekar","TipKorisnika":2},{"Ime":"Milan","Prezime":"Savic","Username":"apo","Pass":"apo","TipKorisnika":1},{"Ime":"melanija","Prezime":"milanovic","Username":"melanija123","Pass":"melanija123","TipKorisnika":2}]
